@@ -12,6 +12,7 @@
   "bugs": {
     "url": "https://github.com/mg/ngScrollSpy/issues"
   },
+  "main": "dist/ngScrollSpy.js",
   "homepage": "https://mg.github.io/ngScrollSpy",
   "author": "Magnús Örn Gylfason",
   "license": "MIT",
